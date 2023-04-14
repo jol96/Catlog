@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj": {}
+    "c:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj": {
+    "c:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "c:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj",
+        "projectPath": "c:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\jack.oloughlin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\obj\\",
+        "outputPath": "c:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AspNetCore.HealthChecks.MongoDb": {
               "target": "Package",

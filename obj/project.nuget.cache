@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aei0lS+ES4FV06zBWAv/MZbl2NfFmbSMo1Jd5krAADz706MGVJoxUrvhzgi1R7RmxRbfEPOLUiI2BlaNJoIQ6A==",
+  "dgSpecHash": "kwdvNSNLbjI1SXpWVjFh81QUCTPPixM6Or3OfQ3Eo7yUYH/6OEHHtpiBTEtTR2Jj15eQApy0sd6e00ezF5kC9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj",
+  "projectFilePath": "c:\\Users\\jack.oloughlin\\VSCodeWorkspace\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\6.0.2\\aspnetcore.healthchecks.mongodb.6.0.2.nupkg.sha512",
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
@@ -32,7 +32,6 @@
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\jack.oloughlin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\jack.oloughlin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
